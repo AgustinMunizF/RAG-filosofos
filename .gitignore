@@ -1,0 +1,5 @@
+venv/
+.venv/
+db_filosofos/
+__pycache__/
+*.pyc
