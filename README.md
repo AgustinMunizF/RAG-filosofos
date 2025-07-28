@@ -6,9 +6,9 @@ Este proyecto utiliza un sistema de Retrieval-Augmented Generation (RAG) que res
 
 Una vez clonado el repositorio se deberá configurar el entorno virtual con el comando:
 python -m venv venv
-# Windows:
+Windows:
 .\venv\Scripts\activate
-# Linux/Mac:
+Linux/Mac:
 source venv/bin/activate
 
 Luego se deberan instalar las dependencias:
