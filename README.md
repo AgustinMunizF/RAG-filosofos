@@ -14,7 +14,8 @@ Windows:
 Linux/Mac:
 source venv/bin/activate
 
-Luego se deberan instalar las dependencias:
+Luego se deberan instalar las dependencias (puede demorar varios segundos) con :  
+
 pip install -r requirements.txt
 
 La API key de Gemini ya viene en el .env del proyecto
